@@ -33,4 +33,5 @@ LINK VID PREZENTARE FINALA:
 
 https://youtu.be/BRf013FhOcg
 
+NOTE: Dacă cadeți prin mapa, mergeti in menu si reintrati, și nu ar mai trebui sa se repete pe regiunea respectiva.
 
