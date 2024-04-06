@@ -29,4 +29,8 @@ Pentru a accesa source code, intrati pe acest google drive: https://drive.google
 
 LINK EXECUTABIL FINALA: https://drive.google.com/file/d/1iiSBqFriGAk9pZAgI98mX1yiUTh0DKI2/view?usp=sharing
 
+LINK VID PREZENTARE FINALA:
+
+https://youtu.be/BRf013FhOcg
+
 
