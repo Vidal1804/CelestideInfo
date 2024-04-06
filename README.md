@@ -22,6 +22,11 @@ Pentru a accesa source code, intrati pe acest google drive: https://drive.google
 	O alta schimbare adusa, este "Bojdeuca lui Creanga(TM)" unde se poate gasi in interiorul ei statuia lui Vlad Tepes alaturi de doua arme mitologice si istorice precum o teapa si sabia lui Stefan cel Mare, casa va fi inchisa dar se poate sparge cu ajutorul unui element din decor, un tun. Aceste aspecte incearca sa indeplineasca conditiile "Side content - Romanian Myths" si "Dynamic Environment" avand nevoie sa interactionam cu mediul pentru a avansa. In bojdeuca, avem si o sabie pe care o poate folosi player-ul, destul de puternica pentru jumatate din joc.
 	Ultima schimbare este posibilitatea schimbarii cursului evenimentelor. Cu o singura alegere indrumatorul nostru va muri, astfel modificand povestea in mod ireparabil, obtinand un al doilea ending.
 	Multumim pentru atentie. Noi am fost echipa Streate.
-	
+
+
+
+ --------------------------------
+
+LINK EXECUTABIL FINALA: https://drive.google.com/file/d/1iiSBqFriGAk9pZAgI98mX1yiUTh0DKI2/view?usp=sharing
 
 
