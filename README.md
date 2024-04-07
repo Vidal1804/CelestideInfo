@@ -29,9 +29,9 @@ Pentru a accesa source code, intrati pe acest google drive: https://drive.google
 
 LINK EXECUTABIL FINALA: https://drive.google.com/file/d/1iiSBqFriGAk9pZAgI98mX1yiUTh0DKI2/view?usp=sharing
 
-LINK VID PREZENTARE FINALA:
+LINK VID PREZENTARE:
 
-https://youtu.be/BRf013FhOcg
+https://youtu.be/R7zf3Xt_eHE
 
 NOTE: Dacă cădeți prin mapa, mergeti in menu si reintrati, și interacționați cu Campfire-ul. Dacă inamicii cad prin lume, doar mergeți la Campfire. Acest lucru e cauzat de Unreal World Partition, și toate metodele noastre de a rezolva acest bug au eșuat
 
