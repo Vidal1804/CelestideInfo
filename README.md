@@ -33,5 +33,5 @@ LINK VID PREZENTARE FINALA:
 
 https://youtu.be/BRf013FhOcg
 
-NOTE: Dacă cadeți prin mapa, mergeti in menu si reintrati, și nu ar mai trebui sa se repete pe regiunea respectiva.
+NOTE: Dacă cădeți prin mapa, mergeti in menu si reintrati, și interacționați cu Campfire-ul. Dacă inamicii cad prin lume, doar mergeți la Campfire. Acest lucru e cauzat de Unreal World Partition, și toate metodele noastre de a rezolva acest bug au eșuat
 
