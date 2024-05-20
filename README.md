@@ -1,4 +1,4 @@
-# Celestide
+# Sea of Stars
 
 Membri:
 
